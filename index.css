@@ -1,0 +1,24 @@
+
+@import "logo/logo";
+
+/**
+ * bdo-logo logo.
+ */
+
+.logo {
+  width: 2.6055045871559632em;
+}
+
+.logo > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo-black > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo-white > * {
+  background-image: url(images/logo-white.svg);
+}
+
